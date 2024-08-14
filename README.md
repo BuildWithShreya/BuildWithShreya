@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreya Chavan</h1>
 <h3 align="center">💻 Coding Enthusiast | 🌐 Exploring Tech</h3>
 
-<p align="center"> <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="buildwithshreya"  /> </p>
+<p align="center">
+  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="buildwithshreya" width="200" height="auto" />
+</p>
+
 
 - 🔭 I’m currently working on **web development projects**
 
