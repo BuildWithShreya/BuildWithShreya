@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **web development projects **
+- 🔭 I’m currently working on **web development projects**
 
 - 👯 I’m looking to collaborate on **open source projects and hackathons**
 
