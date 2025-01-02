@@ -1,6 +1,4 @@
 # Hi 👋, I'm Shreya Chavan  
-  🌐 Tech Explorer 
-
 ---
 
 ### 🌟 About Me  
@@ -46,7 +44,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaaNChavan&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaaNChavan&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaaNChavan&theme=tokyonight)  
 
 ---
 
