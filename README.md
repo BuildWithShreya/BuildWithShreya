@@ -5,7 +5,7 @@
 - 🔭 **Currently Working On:**  
   Building innovative **web development projects** with modern tools and technologies.  
 - 👯 **Collaboration:**  
-  Open to collaborating on **open source projects**, **hackathons**, and exciting tech ideas.  
+  Open to collaborating on **open source projects**, **hackathons**, and tech ideas.  
 - 🤝 **Help Wanted:**  
   Seeking guidance and resources on **algorithms, data structures**, and **scalable solutions**.  
 - 💬 **Ask Me About:**  
