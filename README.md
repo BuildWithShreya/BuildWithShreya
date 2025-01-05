@@ -36,7 +36,7 @@
 - 🌐 Node.js | MongoDB | MySQL  
 
 **Other Tools & Platforms:**  
-- 💻 Git | GitHub | XAMPP | Visual Studio Code  
+- 💻 Git | GitHub | XAMPP | VSC  
 
 ---
 
